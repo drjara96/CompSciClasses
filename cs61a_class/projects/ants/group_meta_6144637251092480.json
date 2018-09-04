@@ -1,0 +1,57 @@
+{
+    "assignment": {
+        "active": true,
+        "autograding_enabled": false,
+        "autograding_key": "",
+        "course": {
+            "active": true,
+            "created": "2015-08-24 20:37:42.000000",
+            "display_name": "CS 61A",
+            "id": 5631829415559168,
+            "institution": "UC Berkeley",
+            "instructor": [],
+            "offering": "cal/cs61a/fa15"
+        },
+        "created": "2015-10-06 15:04:15.703590",
+        "creator": {
+            "created": "2015-01-24 09:31:51.000000",
+            "email": [
+                "denero@berkeley.edu"
+            ],
+            "id": 5937555576979456,
+            "is_admin": true
+        },
+        "display_name": "Ants",
+        "due_date": "2015-10-16 23:59:59.000000",
+        "id": 5474163168903168,
+        "lock_date": "2015-10-20 23:59:59.000000",
+        "max_group_size": 2,
+        "name": "cal/cs61a/fa15/proj3",
+        "points": 25.0,
+        "revision": false,
+        "templates": "{}",
+        "url": "cs61a.org/proj/ants"
+    },
+    "created": "2015-10-08 18:37:44.951080",
+    "id": 6144637251092480,
+    "invited": [],
+    "member": [
+        {
+            "created": "2015-08-26 00:12:57.640360",
+            "email": [
+                "rosachoe@berkeley.edu"
+            ],
+            "id": 5622994265178112,
+            "is_admin": false
+        },
+        {
+            "created": "2015-06-22 15:37:21.127120",
+            "email": [
+                "djara96@berkeley.edu"
+            ],
+            "id": 5585293436518400,
+            "is_admin": false
+        }
+    ],
+    "order": null
+}
